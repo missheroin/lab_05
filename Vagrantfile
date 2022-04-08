@@ -3,19 +3,19 @@
 
 MACHINES = {
   :web1 => {
-        :box_name => "centos/7",
+        :box_name => "centos7",
         :ip_addr => '192.168.11.111'
   },
   :web2 => {
-        :box_name => "centos/7",
+        :box_name => "centos7",
         :ip_addr => '192.168.11.112'
   },
   :haproxy1 => {
-        :box_name => "centos/7",
+        :box_name => "centos7",
         :ip_addr => '192.168.11.113'
   },
   :haproxy2 => {
-        :box_name => "centos/7",
+        :box_name => "centos7",
         :ip_addr => '192.168.11.114'
   }
 }
