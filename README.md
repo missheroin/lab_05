@@ -15,7 +15,7 @@
 *      ansible-playbook nginx.conf
 5. Wait until the playbook is played and the results of its work are displayed.
 6. After that, we launch any of our browsers and enter in the search bar:
-*      http://192.168.11.113
+*      http://192.168.11.100/
 7. We are waiting for the html page to load, then we press the page reload button and observe how the page will change.
 
 *Screenshots:*
